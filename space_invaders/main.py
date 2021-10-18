@@ -284,4 +284,4 @@ while 1:
 
     #updating display
     pygame.display.update()
-    clock.tick(60)
+    clock.tick(40)
